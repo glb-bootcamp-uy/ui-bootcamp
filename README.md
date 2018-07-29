@@ -163,7 +163,7 @@ Now that you know which are the three pilars of a web application's UI, it's tim
 
 <h4 id="topic0">Topic 0 - HTML & CSS Basics</h4>
 
-See related section [here](https://github.com/ivan-ravecca/globant-bootcamp-ui/topic0/README.md)
+See related section [here](https://github.com/ivan-ravecca/globant-bootcamp-ui/tree/master/topic0)
 
 
 **Some resources**

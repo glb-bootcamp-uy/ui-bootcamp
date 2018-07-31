@@ -617,10 +617,11 @@ Tutors will give you feedback at the end of the project by reviewing and comment
 
 Here's a list of resources, tools and tips to continue your learning path. This is meant for more advanced students and developers who wish to continue learning and need a little guidance. Feel free to play with them!
 
-- [Learning Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+- [Learning Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) and [Wes Bos Course](https://flexbox.io/)
 - [Introduction to React Router](https://github.com/ReactTraining/react-router/blob/v3/docs/Introduction.md)
 - [Understanding redux](https://redux.js.org/introduction/motivation)
 - [Observables in Angular](https://angular.io/guide/observables)
 - [Webpack concepts](https://webpack.js.org/concepts/) and the [webpack getting started guide](https://webpack.js.org/guides/getting-started/)
+- [Bunch of more resources](https://github.com/EbookFoundation/free-programming-books/)
 
 → [index](#index)

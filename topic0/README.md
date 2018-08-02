@@ -120,7 +120,8 @@ Exercises
 1. Now modify your CSS to reach something similar to the initial layout asked.
 
 #### 2.5.2 Layout systems
-* Learn how to create your own layout system [Grid Systems](http://www.adamkaplan.me/grid/)
+* ~Learn how to create your own layout system [Grid Systems](http://www.adamkaplan.me/grid/)~
+* Use [flexbox](https://flexbox.io) for layouting
 * Learn how to float elements [CSS Floats](http://alistapart.com/article/css-floats-101)
 * Learn about [CSS units](http://alistapart.com/article/love-the-boring-bits-of-css)
 * Using your own layout system, implement an HTML page based on the following `mock-up` (only desktop).
